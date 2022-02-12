@@ -14,9 +14,9 @@ Outside of work, I still enjoy working on personal projects, including video gam
 
 #### Keep in touch
 
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dannegm)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/dannegm)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/dannegm)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dannegm)
+[<img alt="Instagram" src="https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/dannegm)
 
 <hr />
 <h3 align="center">My Proficients</h3>
