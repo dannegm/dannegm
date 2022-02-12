@@ -2,7 +2,7 @@
 ## Hello!, I’m Daniel García,
 ### Software Specialist.
 
-> Currently may find me at Wizeline coding something awesome.
+> Currently may find me at <a href="https://www.wizeline.com/"><img src="https://img.shields.io/badge/Wizeline-ea3d44?style=flat-square&logo=no&logoColor=white" alt="Wizeline" /></a> coding something awesome.
 
 <hr />
 
@@ -39,5 +39,5 @@ Outside of work, I still enjoy working on personal projects, including video gam
 <hr />
 <h4 align="center"><em>Are you looking for my PDF resume? Just click below</em></h3>
 <p align="center">
-  <a href="https://github.com/dannegm/dannegm/blob/main/resume.pdf" download><img src="https://img.shields.io/badge/Download_Resume-24292f?style=for-the-badge&logo=no&logoColor=white" /></a>
+  <a href="https://github.com/dannegm/dannegm/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-24292f?style=for-the-badge&logo=no&logoColor=white" /></a>
 <p>
