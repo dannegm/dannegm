@@ -19,7 +19,7 @@ Outside of work, I still enjoy working on personal projects, including video gam
 [<img alt="Instagram" src="https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/dannegm)
 
 <hr />
-<h3 align="center">My Proficients</h3>
+<h3 align="center">My Proficiencies</h3>
 
 <p align="center">
   <img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
