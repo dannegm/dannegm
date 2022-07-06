@@ -21,8 +21,10 @@ Outside of work, I still enjoy working on personal projects, including video gam
 <h3 align="center">My Proficiencies</h3>
 
 <p align="center">
-  ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB#gh-dark-mode-only)
-  ![React JS](https://img.shields.io/badge/React-FEFEFE?style=for-the-badge&logo=react&logoColor=61DAFB#gh-light-mode-only)
+
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB#gh-dark-mode-only)
+![React JS](https://img.shields.io/badge/React-FEFEFE?style=for-the-badge&logo=react&logoColor=61DAFB#gh-light-mode-only)
+
 <p>
   
 <hr />
