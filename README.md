@@ -1,7 +1,7 @@
 ## Hello!, I’m Daniel García,
 ### Software Specialist.
 
-> Currently may find me at <a href="https://www.wizeline.com/"><img src="https://img.shields.io/badge/Wizeline-ea3d44?style=flat-square&logo=no&logoColor=white" alt="Wizeline" /></a> coding something awesome.
+> Currently may find me at <a href="[https://www.wizeline.com/](https://www.encora.com/es/)"><img src="https://img.shields.io/badge/Encora-44197e?style=flat-square&logo=no&logoColor=white" alt="Encora" /></a> coding something awesome.
 
 <hr />
 
