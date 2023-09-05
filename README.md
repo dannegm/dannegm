@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github.com/dannegm/dannegm/blob/main/awesome.gif" />
 
-I'm a self-made developer with 8 years of experience in the software development. Specialist in web solutions and constantly growing towards software architecture.
+I'm a self-made developer with 10 years of experience in the software development. Specialist in web solutions and constantly growing towards software architecture.
 
 Outside of work, I still enjoy working on personal projects, including video game development, and I also play guitar, and piano; I love reading and going to the movies.
 
