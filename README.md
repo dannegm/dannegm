@@ -53,3 +53,6 @@ Outside of work, I enjoy working on personal projects, including video game deve
 <p align="center">
   <a href="https://github.com/dannegm/dannegm/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-24292f?style=for-the-badge&logo=no&logoColor=white" /></a>
 <p>
+<p align="center">
+  <a href="https://github.com/dannegm/dannegm/blob/main/resume-ats.pdf"><img src="https://img.shields.io/badge/Download_Resume_ATS_Friendly-24292f?style=for-the-badge&logo=no&logoColor=white" /></a>
+<p>
